@@ -1,7 +1,7 @@
 {
-  "name": "hw1-example",
+  "name": "PokemonGo",
   "version": "1.0.0",
-  "description": "Example of front techs homework #1",
+  "description": "list pokemon",
   "main": "index.html",
   "scripts": {
     "start": "node_modules/http-server/bin/http-server"
